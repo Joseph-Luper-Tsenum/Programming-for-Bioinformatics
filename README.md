@@ -1,7 +1,7 @@
 # Programming for Bioinformatics
 
 
-Course completed at
+### Course completed at
 
 Engineered Biosystems Building (EBB)
 
@@ -9,7 +9,11 @@ Georgia Institute of Technology
 
 950 Atlantic Drive Atlanta, GA 30332
 
+
 ##### Course Resources Available Upon Request 
+
+
+##### Course Synopsis
 
 
 
