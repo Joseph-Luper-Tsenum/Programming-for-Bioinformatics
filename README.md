@@ -10,7 +10,7 @@ Georgia Institute of Technology
 950 Atlantic Drive Atlanta, GA 30332
 
 
-##### Course Resources Available Upon Request 
+##### Course Resources can be found in the uploaded files or https://drive.google.com/drive/folders/11jPnR7fZrKGYhKH5U1pXrTHh7W3Ns0eX?usp=share_link 
 
 
 ##### Course Synopsis
